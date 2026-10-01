@@ -1,0 +1,6 @@
+C:\Users\nguye\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\QuanLyPhuongTien.exe.config
+C:\Users\nguye\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\QuanLyPhuongTien.exe
+C:\Users\nguye\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\QuanLyPhuongTien.pdb
+C:\Users\nguye\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Quanlyphuongtien.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\QuanLyPhuongTien.exe
+C:\Users\nguye\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\QuanLyPhuongTien.pdb
